@@ -1,0 +1,5 @@
+package org.sports.betting.application.domain.bet;
+
+public enum BetType {
+    FOOTBALL_WINNER, FOOTBALL_GOALS, FOOTBALL_PENALTIES, FOOTBALL_CORNERS, FOOTBALL_SCORER, FOOTBALL_HANDICAP, TENNIS_WINNER, TENNIS_
+}
