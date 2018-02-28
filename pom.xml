@@ -31,7 +31,7 @@
   <distributionManagement>
 	<snapshotRepository>
 		<id>sports-betting-application-snapshot</id>
-		<url>http://192.168.33.10:8081/nexus/content/repositories/sports-betting-application-snapshot</url>
+		<url>http://192.168.33.10:8081/nexus/content/repositories/sports-betting-application-SNAPSHOT</url>
 	</snapshotRepository>
   </distributionManagement>
 </project>
