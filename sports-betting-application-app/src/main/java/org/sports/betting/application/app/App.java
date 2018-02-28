@@ -10,8 +10,8 @@ public class App {
 
     public static void main(String[] args) {
 
-//         Player currentPlayer = SBController.createPlayer();
-        Player currentPlayer = TestDataGenerator.createPlayer();
+         Player currentPlayer = SBController.createPlayer();
+//        Player currentPlayer = TestDataGenerator.createPlayer();
 
         UserIO.confirmPlay();
 
